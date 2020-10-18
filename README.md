@@ -1,10 +1,10 @@
-# FileScrape
+# Character Scrapper
 
 Text Characters Scrape Script with Python.
 
 ## Requirments
 
-Python 3.6.x+
+Python 3.7.x+
 
 This is a Code to scrape some certain part of a Text File
 from one file to another.
